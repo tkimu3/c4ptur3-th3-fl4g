@@ -3,7 +3,7 @@ import os
 
 file_name = 'binary_with_spaces.txt'
 new_file_name = 'binary.txt'
-dir_path = '/Users/t.kimura/vagrant/vmkali/work/thm/c4ptur3-th3-fl4g'
+dir_path = '/Users/t.kimura/vagrant/vmkali/work/thm/c4ptur3-th3-fl4g/files'
 
 file_path = os.path.join(dir_path, file_name)
 
